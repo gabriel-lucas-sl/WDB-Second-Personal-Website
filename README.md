@@ -5,7 +5,6 @@
   <br>
   My Second Personal WebSite
 </h1>
-<hr width="90%">
 
 <p align="center">
   This WebSite was created in order to practice my new skills, which I
@@ -19,7 +18,6 @@
   <img src="img/second-gif-part.gif" alt="second gif showing the last part of my website" width="70%">
 </div>
 <br>
-<hr>
 <h2>
   💻Technologies
 </h2>

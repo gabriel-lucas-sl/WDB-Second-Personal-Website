@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  This <a href="https://gabriel-lucas-sl.github.io/WDB-Second-Personal-Website/" target="_blank">WebSite<a/> was created in order to practice my new skills, which I
+  This <a href="https://gabriel-lucas-sl.github.io/WDB-Second-Personal-Website/" target="_blank">WebSite<a/> was created in order to practice my new skills, which I'm
   learning at the <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244" target="_blank">Web Development Bootcamp</a> during my vacation.
 </p>
 
